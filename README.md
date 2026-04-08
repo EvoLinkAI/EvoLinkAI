@@ -37,10 +37,3 @@
 
 **🎵 Audio**
 ![Suno](https://img.shields.io/badge/Suno-FF385C?style=flat-square&logoColor=white)
-
----
-
-## Popular Repositories
-
-[![awesome-openclaw-usecases-moltbook](https://github-readme-stats.vercel.app/api/pin/?username=EvoLinkAI&repo=awesome-openclaw-usecases-moltbook&theme=dark&hide_border=true)](https://github.com/EvoLinkAI/awesome-openclaw-usecases-moltbook)
-[![awesome-seedance-2-guide](https://github-readme-stats.vercel.app/api/pin/?username=EvoLinkAI&repo=awesome-seedance-2-guide&theme=dark&hide_border=true)](https://github.com/EvoLinkAI/awesome-seedance-2-guide)
