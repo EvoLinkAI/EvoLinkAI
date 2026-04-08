@@ -1,6 +1,6 @@
 # EvoLink.ai — One Key. All AI Models.
 
-[![Get Started](https://img.shields.io/badge/Get_Started-000000?style=for-the-badge)](https://evolink.ai/signup?utm_source=github&utm_medium=readme&utm_campaign=profile) [![Pricing](https://img.shields.io/badge/Pricing-1a1a2e?style=for-the-badge)](https://evolink.ai?utm_source=github&utm_medium=readme&utm_campaign=profile) [![Docs](https://img.shields.io/badge/Docs-0078d4?style=for-the-badge)](https://docs.evolink.ai)
+[![Get Started](https://img.shields.io/badge/Get_Started-000000?style=for-the-badge&logo=rocket&logoColor=white)](https://evolink.ai?utm_source=github&utm_medium=readme&utm_campaign=profile) [![Community](https://img.shields.io/badge/Community-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/HHzTj7AmKJ) [![Twitter](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/EvoLinkAi)
 
 🇺🇸 English · 🇪🇸 Español · 🇵🇹 Português · 🇯🇵 日本語 · 🇰🇷 한국어 · 🇩🇪 Deutsch · 🇫🇷 Français · 🇹🇷 Türkçe · 🇹🇼 繁體中文 · 🇨🇳 简体中文 · 🇷🇺 Русский
 
