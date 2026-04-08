@@ -14,4 +14,4 @@
 | **🔤 Text** | ![OpenAI](https://img.shields.io/badge/-OpenAI-000000?style=flat&logo=openai) ![Anthropic](https://img.shields.io/badge/-Anthropic-D19A66?style=flat&logo=anthropic) ![DeepSeek](https://img.shields.io/badge/-DeepSeek-4D6BFE?style=flat&logo=deepseek) ![Google](https://img.shields.io/badge/-Google_Gemini-4285F4?style=flat&logo=google) |
 | **🖼️ Image** | ![Midjourney](https://img.shields.io/badge/-Midjourney-white?style=flat&logo=midjourney) ![Flux](https://img.shields.io/badge/-Flux-FF69B4?style=flat) ![DALL-E](https://img.shields.io/badge/-DALL--E_3-412991?style=flat&logo=openai) |
 | **🎬 Video** | ![Sora](https://img.shields.io/badge/-Sora-000000?style=flat) ![Kling](https://img.shields.io/badge/-Kling-orange?style=flat) ![Luma](https://img.shields.io/badge/-Luma_Dream_Machine-5226FF?style=flat) |
-| **🎵 Audio** | ![Suno](https://img.shields.io/badge/-Suno_V3.5-24292F?style=flat&logo=suno) ![Udio](https://img.shields.io/badge/-Udio-9C27B0?style=flat) |
+| **🎵 Audio** | ![Suno](https://img.shields.io/badge/-Suno_V5-24292F?style=flat&logo=suno) ![Udio](https://img.shields.io/badge/-Udio-9C27B0?style=flat) |
