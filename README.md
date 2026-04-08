@@ -11,30 +11,33 @@
 
 ## Model Ecosystem
 
-**Text**
-![GPT-4o](https://img.shields.io/badge/GPT--4o-412991?style=flat-square&logo=openai&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude-CC785C?style=flat-square&logo=anthropic&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=google&logoColor=white)
-![Llama](https://img.shields.io/badge/Llama-0467DF?style=flat-square&logo=meta&logoColor=white)
+**🔤 Text**
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![Anthropic](https://img.shields.io/badge/Anthropic-CC785C?style=flat-square&logo=anthropic&logoColor=white)
+![Google](https://img.shields.io/badge/Google-4285F4?style=flat-square&logo=google&logoColor=white)
 ![DeepSeek](https://img.shields.io/badge/DeepSeek-00BFFF?style=flat-square&logoColor=white)
-![Mistral](https://img.shields.io/badge/Mistral-FF7000?style=flat-square&logoColor=white)
+![Moonshot](https://img.shields.io/badge/Moonshot-1A1A2E?style=flat-square&logoColor=white)
+![MiniMax](https://img.shields.io/badge/MiniMax-00C853?style=flat-square&logoColor=white)
+![BytePlus](https://img.shields.io/badge/BytePlus-FF4500?style=flat-square&logoColor=white)
 
-**Image**
-![DALL·E](https://img.shields.io/badge/DALL·E-412991?style=flat-square&logo=openai&logoColor=white)
-![Flux](https://img.shields.io/badge/Flux-000000?style=flat-square&logoColor=white)
-![Ideogram](https://img.shields.io/badge/Ideogram-FF4500?style=flat-square&logoColor=white)
-![Recraft](https://img.shields.io/badge/Recraft-6B46C1?style=flat-square&logoColor=white)
+**🖼️ Image**
+![Google](https://img.shields.io/badge/Google-4285F4?style=flat-square&logo=google&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![BytePlus](https://img.shields.io/badge/BytePlus-FF4500?style=flat-square&logoColor=white)
+![Alibaba](https://img.shields.io/badge/Alibaba-FF6A00?style=flat-square&logoColor=white)
+![Raphael](https://img.shields.io/badge/Raphael-6B46C1?style=flat-square&logoColor=white)
 
-**Video**
-![Seedance 2.0](https://img.shields.io/badge/Seedance_2.0-FF6B35?style=flat-square&logoColor=white)
+**🎬 Video**
+![BytePlus](https://img.shields.io/badge/BytePlus-FF4500?style=flat-square&logoColor=white)
 ![Kling](https://img.shields.io/badge/Kling-1A1A2E?style=flat-square&logoColor=white)
-![Veo](https://img.shields.io/badge/Veo-4285F4?style=flat-square&logo=google&logoColor=white)
-![Wan](https://img.shields.io/badge/Wan-E91E63?style=flat-square&logoColor=white)
+![Google](https://img.shields.io/badge/Google-4285F4?style=flat-square&logo=google&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![Alibaba](https://img.shields.io/badge/Alibaba-FF6A00?style=flat-square&logoColor=white)
+![MiniMax](https://img.shields.io/badge/MiniMax-00C853?style=flat-square&logoColor=white)
+![xAI](https://img.shields.io/badge/xAI-000000?style=flat-square&logo=x&logoColor=white)
 
-**Audio**
+**🎵 Audio**
 ![Suno](https://img.shields.io/badge/Suno-FF385C?style=flat-square&logoColor=white)
-![ElevenLabs](https://img.shields.io/badge/ElevenLabs-000000?style=flat-square&logoColor=white)
-![Minimax](https://img.shields.io/badge/Minimax-00C853?style=flat-square&logoColor=white)
 
 ---
 
