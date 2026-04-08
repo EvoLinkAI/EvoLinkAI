@@ -3,13 +3,9 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=One+Key+for+100%2B+AI+Models;Support+GPT-5.2%2C+Claude+%26+DeepSeek;Up+to+70%25+Lower+Costs;Enterprise-Grade+Stability" alt="Typing SVG" />
 </p>
----
-
-# EvoLink.ai — One Key. All AI Models.
 
 [![Get Started](https://img.shields.io/badge/Get_Started-000000?style=for-the-badge&logo=rocket&logoColor=white)](https://evolink.ai?utm_source=github&utm_medium=readme&utm_campaign=profile) [![Community](https://img.shields.io/badge/Community-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/HHzTj7AmKJ) [![Twitter](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/EvoLinkAi)
 
----
 
 ## 🌐 Unified API Ecosystem
 
