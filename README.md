@@ -1,22 +1,10 @@
-<div align="center">
+# EvoLink.ai — One Key. All AI Models.
 
-<img src="https://evolink.ai/favicon.ico" width="60" />
+[![Get Started](https://img.shields.io/badge/Get_Started-000000?style=for-the-badge)](https://evolink.ai/signup?utm_source=github&utm_medium=readme&utm_campaign=profile) [![Pricing](https://img.shields.io/badge/Pricing-1a1a2e?style=for-the-badge)](https://evolink.ai?utm_source=github&utm_medium=readme&utm_campaign=profile) [![Docs](https://img.shields.io/badge/Docs-0078d4?style=for-the-badge)](https://docs.evolink.ai)
 
-# EvoLink.ai
-
-### One Key. All AI Models.
-
-[![Get Started](https://img.shields.io/badge/Get_Started-000000?style=for-the-badge&logo=rocket&logoColor=white)](https://evolink.ai/signup?utm_source=github&utm_medium=readme&utm_campaign=profile)
-[![Pricing](https://img.shields.io/badge/Pricing-1a1a2e?style=for-the-badge&logo=dollar-sign&logoColor=white)](https://evolink.ai?utm_source=github&utm_medium=readme&utm_campaign=profile)
-[![Docs](https://img.shields.io/badge/Docs-0078d4?style=for-the-badge&logo=readthedocs&logoColor=white)](https://docs.evolink.ai)
+🇺🇸 English · 🇪🇸 Español · 🇵🇹 Português · 🇯🇵 日本語 · 🇰🇷 한국어 · 🇩🇪 Deutsch · 🇫🇷 Français · 🇹🇷 Türkçe · 🇹🇼 繁體中文 · 🇨🇳 简体中文 · 🇷🇺 Русский
 
 ---
-
-🇺🇸 English | 🇪🇸 Español | 🇵🇹 Português | 🇯🇵 日本語 | 🇰🇷 한국어 | 🇩🇪 Deutsch | 🇫🇷 Français | 🇹🇷 Türkçe | 🇹🇼 繁體中文 | 🇨🇳 简体中文 | 🇷🇺 Русский
-
-</div>
-
-<br>
 
 **One EvoLink key** unlocks GPT-4o, Claude, Gemini, Llama, and 100+ models — 20–70% cheaper than direct API pricing.
 
@@ -33,18 +21,18 @@ Drop-in replacement. Works with OpenAI SDK, LangChain, and every major framework
 
 ```bash
 export OPENAI_BASE_URL=https://api.evolink.ai/v1
-export OPENAI_API_KEY=tu-clave-evolink
+export OPENAI_API_KEY=your-evolink-key
 ```
 
 Reemplazo directo. Compatible con OpenAI SDK, LangChain y todos los frameworks principales.
 
 ---
 
-**Uma chave EvoLink** desbloqueia GPT-4o, Claude, Gemini, Llama e mais de 100 modelos — 20–70% mais barato que os preços diretos das APIs.
+**Uma chave EvoLink** desbloqueia GPT-4o, Claude, Gemini, Llama e mais de 100 modelos — 20–70% mais barato que os preços diretos.
 
 ```bash
 export OPENAI_BASE_URL=https://api.evolink.ai/v1
-export OPENAI_API_KEY=sua-chave-evolink
+export OPENAI_API_KEY=your-evolink-key
 ```
 
 Substituição direta. Funciona com OpenAI SDK, LangChain e todos os principais frameworks.
@@ -84,7 +72,7 @@ Drop-in-Ersatz. Funktioniert mit OpenAI SDK, LangChain und allen gängigen Frame
 
 ---
 
-**Une clé EvoLink** donne accès à GPT-4o, Claude, Gemini, Llama et plus de 100 modèles — 20 à 70 % moins cher que les tarifs API directs.
+**Une clé EvoLink** donne accès à GPT-4o, Claude, Gemini, Llama et plus de 100 modèles — 20–70% moins cher que les tarifs API directs.
 
 ```bash
 export OPENAI_BASE_URL=https://api.evolink.ai/v1
@@ -95,14 +83,14 @@ Remplacement direct. Compatible avec OpenAI SDK, LangChain et tous les framework
 
 ---
 
-**Bir EvoLink anahtarı** ile GPT-4o, Claude, Gemini, Llama ve 100'den fazla modele erişin — doğrudan API fiyatlarından %20–70 daha ucuz.
+**Bir EvoLink anahtarı** ile GPT-4o, Claude, Gemini, Llama ve 100+ modele erişin — doğrudan API fiyatlarından %20–70 daha ucuz.
 
 ```bash
 export OPENAI_BASE_URL=https://api.evolink.ai/v1
 export OPENAI_API_KEY=your-evolink-key
 ```
 
-Doğrudan değiştirilir. OpenAI SDK, LangChain ve tüm popüler framework'lerle çalışır.
+OpenAI SDK, LangChain ve tüm popüler framework'lerle doğrudan çalışır.
 
 ---
 
@@ -139,15 +127,4 @@ export OPENAI_API_KEY=your-evolink-key
 
 ---
 
-<div align="center">
-
-### 🌟 Featured
-
-[![awesome-openclaw-usecases-moltbook](https://github-readme-stats.vercel.app/api/pin/?username=EvoLinkAI&repo=awesome-openclaw-usecases-moltbook&theme=dark&hide_border=true)](https://github.com/EvoLinkAI/awesome-openclaw-usecases-moltbook)
-[![awesome-seedance-2-guide](https://github-readme-stats.vercel.app/api/pin/?username=EvoLinkAI&repo=awesome-seedance-2-guide&theme=dark&hide_border=true)](https://github.com/EvoLinkAI/awesome-seedance-2-guide)
-
----
-
 [evolink.ai](https://evolink.ai?utm_source=github&utm_medium=readme&utm_campaign=profile) · [hello@evolink.ai](mailto:hello@evolink.ai) · [@EvoLinkAi](https://twitter.com/EvoLinkAi)
-
-</div>
