@@ -7,6 +7,17 @@
 [![Get Started](https://img.shields.io/badge/Get_Started-000000?style=for-the-badge&logo=rocket&logoColor=white)](https://evolink.ai?utm_source=github&utm_medium=readme&utm_campaign=profile) [![Community](https://img.shields.io/badge/Community-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/HHzTj7AmKJ) [![Twitter](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/EvoLinkAi)
 
 
+## Curated GitHub Entrypoints
+
+| Need | Start here |
+| :--- | :--- |
+| Image prompts and API usage | [GPT Image 2 prompts](https://github.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts) |
+| Video generation prompts and guide | [Seedance 2.0 guide](https://github.com/EvoLinkAI/awesome-seedance-2-guide) |
+| Video model comparison | [AI video models API guide](https://github.com/EvoLinkAI/awesome-ai-video-models-api-guide) |
+| Text model routing | [EvoLink model router examples](https://github.com/EvoLinkAI/evolink-model-router-examples) |
+| Agent and OpenClaw use cases | [OpenClaw use cases](https://github.com/EvoLinkAI/awesome-openclaw-usecases-moltbook) |
+| MCP media tool calling | [EvoLink Media MCP](https://github.com/EvoLinkAI/evolink-media-mcp) |
+
 ## 🌐 Unified API Ecosystem
 
 | Category | Supported Models (Live & High Performance) |
