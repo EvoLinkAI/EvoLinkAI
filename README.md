@@ -1,7 +1,7 @@
 [![EvoLink.ai](https://raw.githubusercontent.com/EvoLinkAI/EvoLinkAI/main/assets/header.jpg)](https://evolink.ai?utm_source=github&utm_medium=banner&utm_campaign=profile)
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=000000&center=true&vCenter=true&width=600&lines=One%20API.%20Every%20Model.;GPT-6.1%20Sol%2C%20Claude%20%26%20Gemini;Image%2C%20Video%2C%20Text%20%26%20Audio;Production%20Apps%2C%20Agents%20%26%20Workflows" alt="One API for image, video, text and audio models" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=000000&center=true&vCenter=true&width=600&lines=One%20API%20for%20170%2B%20AI%20Models;GPT-6.1%20Sol%2C%20Claude%20%26%20Gemini;Image%2C%20Video%2C%20Text%20%26%20Audio;Production%20Apps%2C%20Agents%20%26%20Workflows" alt="One API for 170+ AI models across image, video, text and audio" />
 </p>
 
 [![Explore Models](https://img.shields.io/badge/Explore_Models-000000?style=for-the-badge&logo=rocket&logoColor=white)](https://evolink.ai/models?utm_source=github&utm_medium=readme&utm_campaign=profile) [![Community](https://img.shields.io/badge/Community-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/HHzTj7AmKJ) [![Twitter](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/EvoLinkAi)
